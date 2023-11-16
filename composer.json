@@ -1,0 +1,7 @@
+{
+    "name": "user/yourplugin",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    }
+}

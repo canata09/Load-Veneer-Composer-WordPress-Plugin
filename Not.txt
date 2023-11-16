@@ -1,0 +1,7 @@
+https://www.w3schools.com/php/func_string_trim.asp#:~:text=The%20trim()%20function%20removes,right%20side%20of%20a%20string
+https://stackoverflow.com/questions/2109325/how-do-i-strip-all-spaces-out-of-a-string-in-php
+https://flexiple.com/php/php-trim
+https://www.tutorialrepublic.com/faq/how-to-strip-all-spaces-out-of-a-string-in-php.php
+https://www.geeksforgeeks.org/how-to-remove-all-white-spaces-from-a-string-in-php/
+
+
