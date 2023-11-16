@@ -26,7 +26,18 @@ Getting started with the XYZ Plugin is a breeze:
 
 ## Installation
 
-Detailed installation instructions can be found in the [Installation Guide](installation_guide.md).
+# Step 1: Create a new directory for your plugin
+mkdir my-plugin
+cd my-plugin
+
+# Step 2: Initialize a new Composer project
+composer init
+
+# Follow the prompts to set up your project. You can accept the defaults for most options.
+
+# Step 3: Add dependencies
+# For example, to add the "guzzlehttp/guzzle" package:
+composer require guzzlehttp/guzzle
 
 ## Documentation
 
