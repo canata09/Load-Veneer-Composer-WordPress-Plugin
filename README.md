@@ -20,28 +20,30 @@ To check
 
 Getting started with the XYZ Plugin is a breeze:
 
-1. **Installation:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
-2. **Activation:** Use your provided license key to activate the plugin and unlock its full potential.
-3. **Exploration:** Dive into the intuitive interface, explore the features, and let your creativity run wild.
+1. **Installation:** Create a new directory for your plugin.
+2. **Activation:** Initialize a new Composer project.
+3. **Exploration:** Add dependencies.
+4. **Exploration:** Create your plugin file.
+5. **Exploration:** Activate your plugin in WordPress.
 
 ## Installation
 
-# Step 1: Create a new directory for your plugin
+1. **Step 1:** Create a new directory for your plugin
 mkdir my-plugin
 cd my-plugin
 
-# Step 2: Initialize a new Composer project
+2. **Step 2:** Initialize a new Composer project
 composer init
 
-# Follow the prompts to set up your project. You can accept the defaults for most options.
+3. **Follow the prompts:** Follow the prompts to set up your project. You can accept the defaults for most options.
 
-# Step 3: Add dependencies
-# For example, to add the "guzzlehttp/guzzle" package:
+4. **Step 3:** Add dependencies
+5. **For example:** For example, to add the "guzzlehttp/guzzle" package:
 composer require guzzlehttp/guzzle
 
 ## Documentation
 
-For in-depth information about using the XYZ Plugin, check out our [Documentation](documentation.md) page.
+Activate your plugin in WordPress. Upload your plugin directory to the "/wp-content/plugins/" directory in your WordPress installation, then activate the plugin from the WordPress admin panel.
 
 ## Feedback and Support
 
@@ -51,7 +53,9 @@ For additional assistance, you can also contact our support team at support@xyzp
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in improving the XYZ Plugin, please review our [Contribution Guidelines](contributing.md).
+1- Test your plugin to make sure it works as expected.
+2- Add more functionality to your plugin.
+3- Publish your plugin to the WordPress plugin directory.
 
 ## Stay Connected
 
